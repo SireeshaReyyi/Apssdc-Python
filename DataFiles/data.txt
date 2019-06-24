@@ -1,6 +1,7 @@
-ab bb bb
-bc de afg
-line in 1
-line in 2
-line in 3
-line in 4
+Data in Line 1
+Data in Line 2
+Data in Line 3
+Data in Line 4
+Data in Line 5
+Data in Line 6
+Anaconda Navigator is a desktop graphical user interface (GUI) included in Anaconda® distribution that allows you to launch applications and easily manage conda packages, environments and channels without using command-line commands. Navigator can search for packages on Anaconda Cloud or in a local Anaconda Repository. It is available for Windows, macOS, and Linux.
