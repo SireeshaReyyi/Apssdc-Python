@@ -1,2 +1,0 @@
-name1,9876543210,name1@domain.ext
-name2,7937434848,name2@domain.ext
