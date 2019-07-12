@@ -1,0 +1,5 @@
+name eng phy maths	total
+sai  80  70   60	210
+ravi 70  60   70	200
+sasi 60  60   60	180
+laxmi 70 30   20	120
